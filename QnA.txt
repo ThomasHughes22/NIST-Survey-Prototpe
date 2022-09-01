@@ -1,0 +1,346 @@
+CAT: ID.AM
+
+Q.1:
+Do you have an updated asset management list in place for your institute’s assets?[1]
+
+Q.2 :
+Do you keep your asset management list remotely or locally?[1]
+
+Q.3 :
+Do you use an asset management tool or do you keep your devices manually?[1]
+
+Q.4 :
+Does the information system provide the least functionality to meet operational needs?[1]
+
+Q.5 :
+Do you perform internal audits to ensure your asset management is fully checked?[1]
+ 
+
+CAT: ID.BE
+
+Q.1 :
+Does your Higher Education Institute have a defined mission, objectives, and activities?[1]
+
+Q.2 : 
+Are your defined mission, objectives, and activities communicated with the supply chain (board of Education, employees, students, service providers)?[1] 
+
+Q.3 :
+Does your organisation have a Business Impact Analysis (BIA) and Total Risk Profiling (TRP)?[1]
+
+Q.4 :
+Does your organisation perform both a BIA and TRP on a frequent basis (annually)?[1]
+
+Q.5 :
+Do you test your contingency plan by performing regular (annual) disaster recovery plans?[1]
+
+CAT: ID.RA
+
+Q.1 :
+Do you keep up to date (weekly) with malware news?[1]
+
+Q.2 :
+All threats internal & external are identified and recorded?[1]
+
+Q.3 :
+Do you have listed results from vulnerability scans?[1]
+
+Q.4 :
+Have you identified potential business impacts & likelihoods?[1]
+
+Q.5 :
+Have you your risk responses identified and prioritized?[1]
+
+CAT: ID.RM
+Q.1 :
+Do you have a risk management process established?[1]
+
+Q.2 :
+Is your organisation’s risk tolerance outlined and communicated to all involved?[1] 
+
+Q.3 :
+Are your suppliers & third-party partners checked (monthly) often via evaluation to ensure they are meeting contractual obligations?[1]
+
+CAT : PR.AC
+
+Q.1.a :
+Does your institute have a dedicated information security officer?[1] 
+
+Q.1.b :
+Are they on the board of directors?[1]
+
+Q.2 :
+Does your HEI have an implemented logical password process that has a minimum complexity? i.e. minimum 8 characters, upper & lowercase, special characters and numbers.[1]
+
+Q.3 :
+Does the HEI have a dedicated method to simulate threat & attempted penetration testing on their IT systems?[1]
+
+Q.4 :
+Is the user of least privilege defined on the IT system? Are their roles defined?[1]
+
+Q.5 :
+Are users with higher privilege expected to use different accounts to access privileged and non-privileged materials?[1]
+
+Q.6 :
+Are inactive accounts disabled after a set time period of inactivity?[1]
+
+Q.7.a :
+Is there a physical access policy in place in your HEI?[1]
+
+Q.7.b :
+Are users accessing the HEI permitted only with identification?[1]
+
+Q.8 :
+Is VPN utilized for remote access to your network?[1]
+
+CAT: PR.AT
+
+Q.1 :
+Do you have phishing awareness training for both staff and students?[1]
+
+Q.2 :
+Is there appropriate IT training for staff in higher levels of security i.e. stakeholders, board members?[1]
+
+Q.3 :
+Are your students given an IT induction that includes security awareness?[1]
+
+Q.4 :
+Is training given to your staff (lecturers, building staff) changed and improved in its iterations depending on the recorded changing challenges of IT security?[1]
+
+Q.5 :
+Is your IT training for staff mandatory?[1]
+
+CAT: PR.DS
+
+Q.1 :
+Is the confidentiality and integrity defined for the organisation’s data at rest?[1]
+
+Q.2 :
+Is encryption used for the organisation’s data at rest?[1]
+
+Q.3 :
+Does the organisation have all its inventory of confidential data documented?[1]
+
+Q.4 :
+Is the confidentiality and integrity defined for the organisation’s data in transit?[1]
+
+Q.5 :
+Is encryption used for the organisation’s data in transit?[1]
+
+CAT: PR.IP
+
+Q.1 :
+Is there a baseline configuration for your system?[1]
+
+Q.2 :
+Is there a formal change control process for higher privilege users? E.g IT Manager may resign, does policy allow secure handover to next IT Manager?[1]
+
+Q.3 :
+Do you have a data destruction policy that appeases GDPR regulations?[1]
+
+Q.4 :
+Do you have simulated threat response activities e.g. tabletop activities?[1]
+
+Q.5 :
+Is the temperature, power, user access monitored on your critical assets i.e. servers?[1]
+
+CAT: PR.MA
+
+Q.1 :
+Do you have any remote access programs? E.g Teamviewer[1]
+
+Q.2 :
+Are your remote access devices (e.g. work laptops, loaner laptops) updated with asset management considered?[1]
+
+Q.3 :
+Do you have a software for monitoring your physical assets?[1]
+
+Q.4 :
+Do you utilize a VPN for your staff members?[1] 
+
+CAT: PR.PT
+
+Q.1 :
+Do you have your networks segregated accordingly?[1]
+
+Q.2 :
+Are your staff machines and student machines differentiated/not shared?[1]
+
+Q.3 :
+Do you have a data transfer policy? i.e for hard drives and USBs?[1]
+
+Q.4 
+Are removable USB drives permitted for staff and students?[1]
+
+CAT: DE.AE
+
+Q.1 :
+Do you have an outlined baseline configuration of your data flows for your users in your organisation?[1]
+
+Q.2 :
+Do you monitor your network’s traffic often? (weekly)[1]
+
+Q.3 :
+Do you collect event data and analyse it for improvement purposes?[1]
+
+Q.4 :
+Do you take external & shared data from other sources to compare to your events?[1]
+
+Q.5 :
+Is the anomaly information recorded and logged for future anomaly events?[1]
+
+CAT: DE.CM
+
+Q.1 :
+Do you use a vendor for your system monitoring?[1]
+
+Q.2 :
+Do you have dedicated personnel for network monitoring?[1]
+
+Q.3 :
+Do you monitor your network perimeter and all networks inside?[1]
+
+Q.4 :
+Do you monitor staff & student activity on your network?[1]
+
+Q.5 :
+Do you monitor staff & student activity in the physical environment? i.e. door access logs, sign-in/sign-out on premises, security cameras?[1]
+
+Q.6 :
+Do you monitor personnel activity? i.e. network protection tools for monitoring dangerous activity?[1]
+
+Q.7 :
+Do you have a dedicated antivirus for end-points?[1]
+
+Q.8 :
+Do you perform weekly vulnerability scans?[1]
+
+Q.9 :
+Are unauthorized users monitored on your network?[1]
+
+Q.10 :
+Do you perform testing on malicious code?[1]
+
+CAT: DE.DP
+
+Q.1 :
+Are your roles clearly defined in your risk management plan?[1]
+
+Q.2 :
+Do you perform activities to test the efficacy of your detection?[1]
+
+Q.3 :
+Do you check often (annually) with your detection software vendor (if any) the capabilities of the detection that can be performed?[1]
+
+Q.4 :
+Are security incidents reported?[1]
+
+Q.5 :
+Do you use trend analytics to assist in detection?[1]
+
+CAT: RS.RP
+
+Q.1 :
+Do you have a detailed response plan in place?[1]
+
+Q.2 :
+Do you often update this response plan (every 6 months)?[1]
+
+Q.3 :
+Do you have your roles and responsibilities defined within your response plan?[1]
+
+Q.4 :
+Do you perform IR procedures and training? i.e. tabletop exercises?[1]
+
+CAT: RS.CO
+
+Q.1 :
+Does your incident response plan outline the primary use of communications? I.e mobile phone, messaging apps, pager etc.[1]
+
+Q.2 :
+Do you have a dedicated & secured line of communication during an incident where response plan personnel have an uncompromised way of keeping in touch while handling an incident?[1]
+
+Q.3 :
+Do you often (monthly) partake in threat communication e.g., sharing and receiving information about threats that have been detected, contained or dealt with otherwise?[1]
+
+CAT: RS.AN
+
+Q.1 :
+Do you have an incident response policy in place?[1]
+
+Q.2 :
+Are the security incidents logged and reported to management?[1]
+
+Q.3 :
+Do you have an automated system for incident reporting?[1]
+
+Q.4 :
+Is trend analysis used in your HEI on a yearly basis to improve detection on your systems?[1]
+
+Q.5 :
+To ensure the classification is correct, is there a process of categorization in post incident reviews?[1]
+
+CAT: RS.MI
+
+Q.1 :
+Do you have a section in your Risk management plan that addresses the containment of a threat?[1]
+
+Q.2 :
+Do you have a section in your Risk management plan that addresses the mitigation of a threat?[1]
+
+Q.3 :
+Do you have a section in your Risk management plan that addresses the documentation of acceptable risks?[1]
+
+Q.4 :
+Is your risk management plan & incident response plan reviewed and updated monthly via vulnerability reviews?[1]
+
+CAT: RS.IM
+
+Q.1 :
+Is your response strategy updated in accordance with your lessons learned?[1]
+
+Q.2 :
+Do you have organised meetings with the incident response team after an incident to discuss lessons learned?[1]
+
+CAT: RC.RP
+
+Q.1 :
+Do you have required conditions for the enactment of recovery plan? i.e. different tolerance levels before activation?[1]
+
+Q.2 :
+Have you detailed the roles of those involved in the recovery plan?[1]
+
+Q.3 :
+Are those involved in the recovery plan aware of their and others’ roles and what those roles entail?[1]
+
+CAT: RC.IM
+
+Q.1 :
+Do you improve your recovery plan based on internally analysed results? E.g. personnel in organisation’s experience & previous recorded events[1]
+
+Q.2 :
+Do you improve your recovery plan based on externally analysed results? E.g. shared event recovery data from other HEI’s & organisations[1]
+
+Q.3 :
+Do you utilise external auditing to aid with recording improvements?[1]
+
+CAT: RC.CO
+
+Q.1 :
+Have you detailed the roles of those involved in the recovery plan – specifically for the speakers on behalf of the HEI?[1]
+
+Q.2 :
+Are your board members & stakeholders aware of their role in the communications process in the recovery plan?[1]
+
+Q.3 :
+Is your incident response plan and recovery plan clearly outlined to both your relevant internal staff and external entities?[1]
+
+Q.4 :
+As a part of your recovery plan, do you have dedicated speakers/ social media managers to respond to press regarding the incident?[1]
+
+Q.5 :
+As a part of reputation repair, do you have a pre-made response to give to stakeholders & social media regarding the incident?[1]
+
+
+
+
+
